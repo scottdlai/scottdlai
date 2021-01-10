@@ -5,4 +5,4 @@ I love building softwares.
 
 Feel free to check my projects :D
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scottdlai&langs_count=10&layout=compact)
+![My stats](https://github-readme-stats.vercel.app/api?username=scottdlai&show_icons=true&count_private=true)
