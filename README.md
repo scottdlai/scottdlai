@@ -1,7 +1,10 @@
 # Hi there 👋
 
 My name is Scott Lai. I'm currently studying term 4 at BCIT.
-I love building softwares.
+Currently, I'm interested in:
+- Creating my own programming language
+- Reading and visualizing more alogirthms
+- Making more CRUD applications
 
 Feel free to check my projects :D
 
